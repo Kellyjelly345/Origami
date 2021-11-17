@@ -1,0 +1,33 @@
+body {
+    text-align: center;
+    background-color: azure;
+    /* Add a background-color property for example  background-color: black;*/
+
+}
+
+h1 {
+    font-size: 40px;
+    font-family: sans-serif;
+    font-weight: 300;
+}
+
+#intro{
+    background-color:azure;
+}
+
+#origami1{
+    background-color:lavenderblush
+   /* Add a background-color property for example  background-color:lightcoral;*/ 
+}
+
+#origami2{
+    background-color:rgb(238, 231, 242);
+ /* Add a background-color property for example  background-color:lightcoral;*/ 
+}
+
+.line {
+    height: 6px;
+    background-color:white;
+    width: 1000px;
+    margin: 8px auto;
+}
